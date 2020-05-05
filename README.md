@@ -1,7 +1,7 @@
 # docker_image_jenkins
 Jenkins with java, maven, ansible and pre-installed plugins
 Latest versions:
-- JDK 11,
+- JDK 8,
 - Maven 3.6.3 
 - Ansible 2.9.7
 
