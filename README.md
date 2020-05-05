@@ -5,6 +5,8 @@ Latest versions:
 - Maven 3.6.3 
 - Ansible 2.9.7
 
+It is build on top of official jenkins/jenkins image. Configurations and use is the same as in official image. More info about official image and usage: https://github.com/jenkinsci/docker/blob/master/README.md
+
 Automatically configured user admin/admin
 
 List of jenkins plugins to be automatically installed:
