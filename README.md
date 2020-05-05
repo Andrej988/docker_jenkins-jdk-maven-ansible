@@ -1,7 +1,7 @@
 # Andrej988/jenkins-jdk-maven-ansible
 Jenkins with java, maven, ansible and pre-installed plugins
 Latest versions:
-- JDK 8,
+- JDK 11,
 - Maven 3.6.3 
 - Ansible 2.9.7
 
