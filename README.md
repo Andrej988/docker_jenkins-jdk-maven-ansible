@@ -1,5 +1,9 @@
 # docker_image_jenkins
 Jenkins with java, maven, ansible and pre-installed plugins
+Latest versions:
+- JDK 11,
+- Maven 3.6.3 
+- Ansible 2.9.7
 
 Automatically configured user admin/admin
 
