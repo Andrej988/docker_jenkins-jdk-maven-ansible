@@ -1,4 +1,4 @@
-# docker_image_jenkins
+# Andrej988/jenkins-jdk-maven-ansible
 Jenkins with java, maven, ansible and pre-installed plugins
 Latest versions:
 - JDK 8,
@@ -6,6 +6,10 @@ Latest versions:
 - Ansible 2.9.7
 
 It is build on top of official jenkins/jenkins image. Configurations and use is the same as in official image. More info about official image and usage: https://github.com/jenkinsci/docker/blob/master/README.md
+
+Usage:
+- jdk11 latest: docker pull andrej988/jenkins-jdk-maven-ansible:latest
+- jdk8 latest: docker pull andrej988/jenkins-jdk-maven-ansible:jdk8-latest
 
 Automatically configured user admin/admin
 
