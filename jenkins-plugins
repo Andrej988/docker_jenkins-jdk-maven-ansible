@@ -10,6 +10,7 @@ dashboard-view
 email-ext
 favorite
 git
+git-client
 github
 github-branch-source
 gradle
@@ -18,6 +19,7 @@ javadoc
 ldap
 mailer
 matrix-auth
+maven-plugin
 monitoring
 pam-auth
 performance
