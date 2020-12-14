@@ -1,3 +1,3 @@
-docker image build --tag andrej988/jenkins-jdk-maven-ansible:latest .
-docker push andrej988/jenkins-jdk-maven-ansible:latest
+docker image build --tag nexus.initialised.si/jenkins-jdk-maven-ansible:latest .
+docker push nexus.initialised.si/jenkins-jdk-maven-ansible:latest
 pause
